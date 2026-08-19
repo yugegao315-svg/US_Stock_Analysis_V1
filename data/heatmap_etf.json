@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T22:37:54.119539+00:00",
+  "updated": "2026-08-19T23:34:06.332148+00:00",
   "sectors": [
     {
       "name": "Broad Market",
@@ -96,7 +96,7 @@
           "name": "TLT",
           "price": 83.02,
           "changePercent": 1.67,
-          "marketCap": 49.93
+          "marketCap": 50.1
         },
         {
           "symbol": "AGG",
