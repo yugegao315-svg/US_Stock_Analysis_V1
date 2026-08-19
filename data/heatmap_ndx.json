@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T21:36:59.868650+00:00",
+  "updated": "2026-08-19T22:37:45.466834+00:00",
   "sectors": [
     {
       "name": "Technology",
@@ -236,7 +236,7 @@
           "name": "SBUX",
           "price": 104.98,
           "changePercent": -0.97,
-          "marketCap": 6.36
+          "marketCap": 6.37
         },
         {
           "symbol": "PEP",
