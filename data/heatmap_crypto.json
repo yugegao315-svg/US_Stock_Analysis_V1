@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T17:37:02.618776+00:00",
+  "updated": "2026-09-16T21:15:23.067077+00:00",
   "sectors": [
     {
       "name": "Major",
@@ -7,16 +7,16 @@
         {
           "symbol": "BTC",
           "name": "BTC-USD",
-          "price": 75493.2,
-          "changePercent": -0.16,
-          "marketCap": 32154.87
+          "price": 76053.36,
+          "changePercent": 0.58,
+          "marketCap": 30724.9
         },
         {
           "symbol": "ETH",
           "name": "ETH-USD",
-          "price": 2379.33,
-          "changePercent": -0.82,
-          "marketCap": 16677.11
+          "price": 2408.32,
+          "changePercent": 0.38,
+          "marketCap": 16059.26
         }
       ]
     },
@@ -26,44 +26,44 @@
         {
           "symbol": "BNB",
           "name": "BNB-USD",
-          "price": 712.14,
-          "changePercent": -0.0,
-          "marketCap": 1480.33
+          "price": 719.9,
+          "changePercent": 1.09,
+          "marketCap": 1476.3
         },
         {
           "symbol": "XRP",
           "name": "XRP-USD",
-          "price": 1.26,
-          "changePercent": -1.9,
-          "marketCap": 5809.23
+          "price": 1.29,
+          "changePercent": 0.78,
+          "marketCap": 4305.82
         },
         {
           "symbol": "SOL",
           "name": "SOL-USD",
-          "price": 96.56,
-          "changePercent": -0.34,
-          "marketCap": 3386.16
+          "price": 98.37,
+          "changePercent": 1.53,
+          "marketCap": 3253.84
         },
         {
           "symbol": "TRX",
           "name": "TRX-USD",
           "price": 0.34,
-          "changePercent": 0.85,
-          "marketCap": 445.06
+          "changePercent": 0.9,
+          "marketCap": 402.82
         },
         {
           "symbol": "DOGE",
           "name": "DOGE-USD",
           "price": 0.08,
-          "changePercent": -1.64,
-          "marketCap": 919.11
+          "changePercent": 0.48,
+          "marketCap": 810.13
         },
         {
           "symbol": "ADA",
           "name": "ADA-USD",
           "price": 0.19,
-          "changePercent": -2.0,
-          "marketCap": 478.93
+          "changePercent": -0.56,
+          "marketCap": 431.76
         }
       ]
     },
@@ -73,9 +73,9 @@
         {
           "symbol": "LINK",
           "name": "LINK-USD",
-          "price": 10.67,
-          "changePercent": -2.06,
-          "marketCap": 422.39
+          "price": 10.95,
+          "changePercent": 0.55,
+          "marketCap": 391.76
         },
         {
           "symbol": "TON",
@@ -87,58 +87,58 @@
         {
           "symbol": "BCH",
           "name": "BCH-USD",
-          "price": 215.18,
-          "changePercent": -0.82,
-          "marketCap": 145.01
+          "price": 218.08,
+          "changePercent": 0.51,
+          "marketCap": 141.05
         },
         {
           "symbol": "LTC",
           "name": "LTC-USD",
-          "price": 50.45,
-          "changePercent": -1.57,
-          "marketCap": 246.7
+          "price": 51.23,
+          "changePercent": -0.04,
+          "marketCap": 248.14
         },
         {
           "symbol": "AVAX",
           "name": "AVAX-USD",
-          "price": 7.2,
-          "changePercent": -0.95,
-          "marketCap": 336.62
+          "price": 7.36,
+          "changePercent": 1.16,
+          "marketCap": 311.25
         },
         {
           "symbol": "XLM",
           "name": "XLM-USD",
-          "price": 0.17,
-          "changePercent": -1.54,
-          "marketCap": 297.39
+          "price": 0.18,
+          "changePercent": 3.07,
+          "marketCap": 240.83
         },
         {
           "symbol": "HBAR",
           "name": "HBAR-USD",
           "price": 0.07,
-          "changePercent": -2.41,
-          "marketCap": 72.56
+          "changePercent": -1.27,
+          "marketCap": 58.69
         },
         {
           "symbol": "NEAR",
           "name": "NEAR-USD",
-          "price": 2.45,
-          "changePercent": 5.09,
-          "marketCap": 495.19
+          "price": 2.59,
+          "changePercent": 10.92,
+          "marketCap": 608.25
         },
         {
           "symbol": "ZEC",
           "name": "ZEC-USD",
-          "price": 1245.56,
-          "changePercent": 12.12,
-          "marketCap": 1684.12
+          "price": 1322.45,
+          "changePercent": 19.04,
+          "marketCap": 2194.16
         },
         {
           "symbol": "SHIB",
           "name": "SHIB-USD",
           "price": 0.0,
-          "changePercent": -4.6,
-          "marketCap": 81.59
+          "changePercent": -2.0,
+          "marketCap": 77.58
         }
       ]
     }
