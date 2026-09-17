@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T23:39:26.896353+00:00",
+  "updated": "2026-09-17T11:41:31.178697+00:00",
   "sectors": [
     {
       "name": "Technology",
@@ -16,21 +16,21 @@
           "name": "MSFT",
           "price": 490.3,
           "changePercent": -1.37,
-          "marketCap": 16.62
+          "marketCap": 16.61
         },
         {
           "symbol": "NVDA",
           "name": "NVDA",
           "price": 213.9,
           "changePercent": 0.82,
-          "marketCap": 96.11
+          "marketCap": 96.08
         },
         {
           "symbol": "AVGO",
           "name": "AVGO",
           "price": 339.51,
           "changePercent": 0.07,
-          "marketCap": 23.07
+          "marketCap": 23.06
         },
         {
           "symbol": "ORCL",
@@ -58,14 +58,14 @@
           "name": "AMD",
           "price": 512.5,
           "changePercent": 1.65,
-          "marketCap": 22.2
+          "marketCap": 22.19
         },
         {
           "symbol": "CSCO",
           "name": "CSCO",
           "price": 107.74,
           "changePercent": -2.12,
-          "marketCap": 15.56
+          "marketCap": 15.55
         },
         {
           "symbol": "IBM",
@@ -84,7 +84,7 @@
           "name": "GOOGL",
           "price": 342.87,
           "changePercent": -0.61,
-          "marketCap": 18.87
+          "marketCap": 18.86
         },
         {
           "symbol": "META",
@@ -98,7 +98,7 @@
           "name": "NFLX",
           "price": 76.41,
           "changePercent": -1.91,
-          "marketCap": 25.31
+          "marketCap": 25.3
         },
         {
           "symbol": "TMUS",
@@ -131,14 +131,14 @@
           "name": "AMZN",
           "price": 245.96,
           "changePercent": -0.99,
-          "marketCap": 33.33
+          "marketCap": 33.32
         },
         {
           "symbol": "TSLA",
           "name": "TSLA",
           "price": 358.08,
           "changePercent": 0.42,
-          "marketCap": 32.04
+          "marketCap": 32.03
         },
         {
           "symbol": "HD",
@@ -354,7 +354,7 @@
           "name": "BA",
           "price": 201.96,
           "changePercent": -3.69,
-          "marketCap": 12.85
+          "marketCap": 12.84
         },
         {
           "symbol": "HON",
